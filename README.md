@@ -1,7 +1,5 @@
 # Thrift It!
-### Chrome extension that lets you search for second-hand alternatives
-
------
+> Chrome extension that lets you search for second-hand alternatives
 
 Find something you like but it's crazy expensive and you would rather find a pre-loved alternative...Thrift It! :shipit:
 ![Screenshot 2023-07-08 at 12 04 16 AM](https://github.com/wenx0/thrift-it/assets/92049325/fb5659f6-2e60-4a83-a22a-412d3773aa2a)
@@ -10,7 +8,7 @@ Simply input what you want:
 ![Screenshot 2023-07-08 at 12 04 46 AM](https://github.com/wenx0/thrift-it/assets/92049325/e772a01f-fb7d-40e9-acff-44bdd0330343)
 and you'll get a list of 30 options!
 ![Screenshot 2023-07-08 at 12 09 22 AM](https://github.com/wenx0/thrift-it/assets/92049325/540701d3-366c-4a09-b0d6-aeccb6226ee2)
-happy shopping :moneybag:
+*happy shopping* :moneybag:
 
 -----
 
