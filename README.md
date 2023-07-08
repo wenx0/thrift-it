@@ -1,7 +1,16 @@
 # Thrift It!
 **Chrome extension that lets you search for second-hand alternatives**
 
-### To try out the extension:
+Find something you like but it's crazy expensive and you would rather find a pre-loved alternative...Thrift It!
+![Screenshot 2023-07-08 at 12 04 16 AM](https://github.com/wenx0/thrift-it/assets/92049325/fb5659f6-2e60-4a83-a22a-412d3773aa2a)
+
+Simply input what you want:
+![Screenshot 2023-07-08 at 12 04 46 AM](https://github.com/wenx0/thrift-it/assets/92049325/e772a01f-fb7d-40e9-acff-44bdd0330343)
+and you'll get a list of 30 options!
+![Screenshot 2023-07-08 at 12 09 22 AM](https://github.com/wenx0/thrift-it/assets/92049325/540701d3-366c-4a09-b0d6-aeccb6226ee2)
+happy shopping :)
+
+### To try out the extension yourself:
 1. Make a Rapid API account
 2. Go to the [Real-Time Product Search](https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-product-search/) page
 3. Navigate to Pricing -> subscribe to Basic (free, only allows one request per minute)
