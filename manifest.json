@@ -1,0 +1,11 @@
+{
+    "name": "Thrift It!",
+    "version": "1.0.0",
+    "description": "This is an extension to find second-hand alternatives to products",
+    "manifest_version": 3,
+    "author": "Wendy Xie",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Thrift It!"
+    }
+}
